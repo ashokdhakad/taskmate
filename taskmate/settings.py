@@ -123,3 +123,4 @@ LOGIN_URL = "login"
 
 # Heroku local settings
 django_heroku.settings(locals())
+
