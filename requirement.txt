@@ -52,6 +52,7 @@ distributed==2.1.0
 dj-database-url==0.5.0
 Django==3.0.6
 django-crispy-forms==1.9.2
+django-environ==0.4.5
 django-heroku==0.3.1
 docutils==0.14
 entrypoints==0.3
